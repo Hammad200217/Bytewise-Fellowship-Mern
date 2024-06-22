@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f1f1f1;
+    color: #FE9F33;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+h1, h2{
+    color: #333;
+    margin-bottom: 20px;
+}
+ul{
+    list-style: none;
+}
+.navbar{
+        background-color: #f1f1f1;
+        color: #FE9F33;
+        height: 60px;
+
+}
+ .navbar .logo{
+    font-size: x-large;
+    font-weight: BOLd;
+    line-height: 60px;
+    margin-left: 30px;
+}
+.navbar a{
+    color: #FE9F33;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.navbar ul li a.hover{
+    color: #5E8EE8;
+}
+.navbar .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.navbar ul{
+    display: flex;
+}
+.navbar ul li{
+    margin-left: 20px;
+}
+.header{
+    background-color: #FE9F33;
+    color: #fff;
+    min-height: 400px;
+    padding: 50px 0;
+    text-align: center;
+    align-items: center;
+
+}
+
+.header h1{
+    font-size: 3rem;
+    line-height: 1.2;
+    color: #fff;
+    }
+    .header img{
+        max-width: 500px;
+    }
+    .header .container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+    }
+    .boxes .container{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    .box{
+        flex: 1;
+        background-color: #FE9F33;
+        color: #fff;
+        padding: 15px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        width: 30%;
+        margin: 20px 10px;
+    }
+    .box h2{
+        color: #fff; }
+        @media screen and (max-width: 768px){
+            .header .container{
+                flex-direction: column;
+                padding-top: 20px;
+                text-align: center;
+            }
+            
+            .boxes .container{
+                display: block;
+                text-align: center;
+            }
+            .box{
+                width: 100%;}
+            
+        }
