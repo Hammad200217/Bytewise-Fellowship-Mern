@@ -1,0 +1,17 @@
+🔔 Week 01 (Day-1) : Basics of HTML
+
+⭕ Hey Fellows,
+
+On day 1 of MERN track Fellowship! We'll start with the basics of HTML, the foundation of web development.
+
+I know most of you folks are already familiar with this topic but this is what fellowship is about - to practice and warm up a little bit by doing practicle before moving on to more intermediate level.
+
+🚩Task:
+Watch the following video to understand the basics of HTML: https://youtu.be/UB1O30fR-EE
+
+📖What you'll learn:
+- What HTML is and how it works
+- Basic HTML structure and tags
+- Creating your first HTML page
+
+Also create a basic html page and save it in the folder I'll let you know the submission process.

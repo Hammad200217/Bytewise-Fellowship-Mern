@@ -1,0 +1,25 @@
+🔔 Week 02 (Day 1) : Mastering CSS Grid and Flexbox
+
+⭕ Hey Fellows,
+
+I hope you all had a restful break during Eid ul Adha. As we return, we have a tight schedule, so we’ll be focusing on two crucial CSS layout techniques: CSS Grid and Flexbox. These are often challenging topics, so today, we’ll dedicate our time to mastering both.
+
+🚩 Tasks for the Day:
+
+- Watch the following video to understand CSS Grid: https://youtu.be/rg7Fvvl3taU?si=fHQulQWpVHQT-35Q
+- Watch the following video to understand Flexbox: https://www.youtube.com/watch?v=3YW65K6LcIA
+
+📖 What you'll learn:
+- What CSS Grid is and why it's useful
+- Basic CSS Grid properties and layout techniques
+- How to create complex layouts using CSS Grid
+- What Flexbox is and how it differs from CSS Grid
+- Basic Flexbox properties and layout techniques
+- Practical examples of creating flexible layouts with Flexbox
+
+📝 Submission:
+Create two separate HTML pages, one demonstrating your understanding of CSS Grid and the other demonstrating your understanding of Flexbox. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is the end of the week.
+
+Let's tackle these essential skills and enhance our layout abilities!
+
+Happy coding!

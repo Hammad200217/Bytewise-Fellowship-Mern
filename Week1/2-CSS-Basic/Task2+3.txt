@@ -1,0 +1,25 @@
+🔔 Week 01 ( Day-2+3 ): CSS Basics and Styling Best Practices
+
+⭕ Hey Fellows,
+
+I hope you all had a productive day! Since we also had our onboarding meeting yesterday, we'll combine the tasks for day 2 and 3, as they are closely related.
+
+This time, we are focusing on CSS, which is essential for styling your HTML pages.
+
+🚩 Tasks:
+- Watch the following video to understand the basics of CSS: https://youtu.be/yfoY53QXEnI
+- Watch the following video to learn about styling best practices: https://youtu.be/i1FeOOhNnwU?si=OmJ_mSJu-n3e5E9E
+
+📖What you'll learn:
+- How to add CSS to your HTML
+- Basic CSS properties and selectors
+- Best practices for writing clean, maintainable CSS
+
+📝Submission:
+Create a styled HTML page using the concepts learned from both videos. Save your work in the folder. 
+
+The deadline for submission is this weekend for all the tasks assigned this week. 
+
+Let's make those web pages beautiful!
+
+Happy coding!

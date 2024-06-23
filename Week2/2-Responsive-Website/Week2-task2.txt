@@ -1,0 +1,21 @@
+🔔 Week 02 (Day 2): Creating a Responsive Website
+
+⭕ Hey Fellows,
+
+I hope you’re all doing well and making great progress! Today, we'll focus on creating responsive websites, an essential skill for modern web development.
+
+🚩 Tasks for the Day:
+Watch the following video to understand how to create a responsive website: https://youtu.be/ZYV6dYtz4HA?si=8Z9phBeEnA0OHLLz
+
+📖 What you'll learn:
+- What responsiveness means in web design
+- Techniques for making your website responsive
+- Using media queries to adjust layouts for different screen sizes
+- Best practices for responsive design
+
+📝 Submission:
+Create a responsive version of one of your previous HTML pages using the concepts learned from the video. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is the end of the week.
+
+Let's ensure our websites look great on all devices!
+
+Happy coding!
