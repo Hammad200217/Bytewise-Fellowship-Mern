@@ -1,0 +1,21 @@
+🔔 Week 02 (Day 3): Portfolio Website (Practice)
+
+⭕ Hey Fellows,
+
+I hope you’re all enjoying the journey so far! Today, we’ll focus on a practical exercise to consolidate what we've learned by building a portfolio website.
+
+🚩 Tasks for the Day:
+- Visit the following link to access the challenge: https://www.frontendmentor.io/challenges/singlepage-developer-portfolio-bBVj2ZPi-x
+- Download the provided assets and review the project requirements.
+
+📖 What you'll learn:
+* Applying your HTML, CSS Grid, Flexbox, and responsive design skills
+* Structuring and styling a professional portfolio website
+* Implementing best practices in web development
+
+📝 Submission:
+Build a portfolio website based on the assets and requirements provided in the challenge. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is the end of the week.
+
+This is a great opportunity to showcase your skills and create something you can use in your professional journey!
+
+Happy coding!
