@@ -1,0 +1,263 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+    color: #FE9F33;
+    font-size: 16px;
+    line-height: 1.5;
+   
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 30px;
+    
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+h1, h2{
+    color: #FE9F33;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+ul{
+    list-style: none;
+}
+.navbar{
+        background-color: #fff;
+        color: #FE9F33;
+        height: 60px;
+
+}
+ .navbar .logo{
+    font-size: x-large;
+    font-weight: BOLd;
+    line-height: 60px;
+    margin-left: 30px;
+}
+.navbar a{
+    color: #FE9F33;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.navbar ul li a.hover{
+    color: #333;
+}
+.navbar .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.navbar ul{
+    display: flex;
+}
+.navbar ul li{
+    margin-left: 20px;
+}
+
+/* hero-page */
+.hero{
+    background-color: #fff;
+    color: #FE9F33;
+    min-height: 400px;
+    padding: 50px 70px;
+    /* text-align: center; */
+    align-items: center;
+
+}
+.social{
+    padding-top: 30px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.social img{
+  padding: 7px;
+}
+
+.hero h1{
+    font-size: 3rem;
+    line-height: 1.2;
+    color: #FE9F33;
+    }
+    .hero img{
+        max-width: 100%;
+    }
+    .hero .container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+    }
+    /* About */
+    .about{
+    background-color: #FE9F33;
+    color: #fff;
+    min-height: 400px;
+    padding: 0px 100px;
+    text-align: justify;
+    align-items: center;
+    padding-bottom: 20px;
+    
+
+}
+
+.about h1{
+    text-align: center;
+        padding-top: 20px;
+    color: #fff;
+    }
+    .about p{
+        font-size: 20px;
+    }
+    .about img{
+        max-width: 500px;
+    }
+    .about .container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+    }
+
+    /* Services box */
+    .boxes{
+        min-height: 500px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .boxes .container{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+        align-items: center;
+    
+    }
+    .box{
+        flex: 1;
+        background-color: #FE9F33;
+        color: #fff;
+        padding: 15px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        width: 30%;
+        height: 300px;
+        margin: 20px 10px;
+    }
+    .box{
+        justify-content: center;
+        align-items: center;
+    }
+    .boxes .heading{ 
+        text-align: center;
+        padding-top: 20px;
+
+    }
+    .box h3{
+
+     
+        font-size: x-large;
+        text-align: center;
+        padding-top: 20px;
+       
+    }
+
+    .box p{
+        text-align: center;
+        font-size: medium;
+    }
+.box img{
+display: block;
+margin: 0 auto;
+   height: 48px;
+   width: 48px;
+}
+.box:hover{
+    background-color: #fff;
+    color: #5E8EE8;
+}
+.footer .container{
+  
+    text-align: center;
+ height: 200px;
+    padding: 20px 0;
+}
+.footer .footer_menu{
+    display: flex;
+    padding: 20px;
+ align-items: center;
+ justify-content: center;
+}
+.footer ul{
+    display: flex;
+    text-align: center;
+}
+.footer ul li a{
+    color: #FE9F33;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold; 
+    text-align: center;
+}
+.footer ul li a:hover{
+    color:#5E8EE8;
+}
+.footer ul li{
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+.copy{
+    text-align: center;
+    padding: 20px 0;
+    background-color:  #FE9F33;
+    color: #fff;
+}
+        @media screen and (max-width: 768px){
+            .hero .container{
+                flex-direction: column;
+                padding-top: 20px;
+                text-align: center;
+            }
+            .about .container{
+                flex-direction: column;
+                padding-top: 20px;
+                text-align: center;
+            }
+            .boxes .container{
+                display: block;
+                text-align: center;
+            }
+            .box{
+                width: 100%;}
+                
+                .footer ul{
+                    display: block;
+                    text-align: center;
+                }
+                .footer ul li{
+                    display: block;
+                    text-align: center;
+                }
+        }
+@media screen and (max-width: 1000px){
+    .hero .container{
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .about .container{
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
+}
