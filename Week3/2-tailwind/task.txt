@@ -1,0 +1,21 @@
+🔔 Week 03 (Day 2-3): Learn Tailwind CSS
+
+⭕ Hey Fellows,
+
+I hope you're all progressing well! For the next two days, we'll be focusing on learning and applying Tailwind CSS, a utility-first CSS framework that makes styling much more efficient and enjoyable.
+
+🚩 Tasks for the Next Two Days:
+Watch the following video to understand Tailwind CSS: https://www.youtube.com/watch?v=dFgzHOX84xQ&t=336s
+
+📖 What you'll learn:
+* What Tailwind CSS is and how it differs from traditional CSS
+* Basic concepts and utility classes in Tailwind
+* How to build responsive and modern web designs using Tailwind CSS
+* Practical examples and best practices for using Tailwind
+
+📝 Submission:
+Over the next two days, build a small project or redesign an existing HTML page using Tailwind CSS. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of Day 3.
+
+Tailwind CSS can significantly speed up your development process and help you create clean, consistent designs quickly. Let's dive in and make the most of these two days!
+
+Happy coding!
