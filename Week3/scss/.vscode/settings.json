@@ -1,0 +1,4 @@
+{
+    "liveSassCompile.settings.watchOnLaunch": true,
+    "scss.format.enable": true
+}
