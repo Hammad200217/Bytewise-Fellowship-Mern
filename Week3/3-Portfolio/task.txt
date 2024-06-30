@@ -1,0 +1,20 @@
+🔔Week 03 (Day 4-5): Practice Project (Tailwind CSS + Responsive)
+
+⭕ Hey Fellows,
+
+I hope you're all enjoying learning Tailwind CSS! For the next two days, we’ll be working on a practice project to apply your skills and ensure you’re comfortable using Tailwind CSS to create responsive designs.
+
+🚩 Tasks for the Next Two Days:
+* Watch the following video to understand the practice project: (https://youtu.be/PuovsjZN11Y?si=6Y_symZm4Do5Div5)
+
+📖 What you'll learn:
+* How to use Tailwind CSS to build a responsive web project
+* Practical application of Tailwind utility classes
+* Techniques for creating responsive and modern designs
+
+📝 Submission:
+Complete the practice project using Tailwind CSS as demonstrated in the video. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of Day 5.
+
+This project is a great opportunity to solidify your understanding of Tailwind CSS and practice building responsive designs. Let's make the most of it!
+
+Happy coding!
