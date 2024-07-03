@@ -41,7 +41,7 @@ let lastname= "Ali";
 let c=2;
 d=14;
 // console.log("total" + (c+d )+ "Rupees");
- console.log('total', ${c+d});
+//  console.log('total', ${c+d});
 
  // Control flow
 //  conditional statemnet (if ,nested if-else, els,else-if)
@@ -161,10 +161,13 @@ alert("Hello World");
 // prompt
 let entername = prompt("Enter your name");
 console.log(entername);
+
+
 //  basic DOM
 // document.getElementById
 let heading = document.getElementById("heading");
 heading.style.color = "red";
+heading.backgroundColor = "black";
 heading.style.fontSize = "50px";
 heading.style.fontFamily = "Arial";
 // document.getElementsByClassName
@@ -206,6 +209,35 @@ console.log(result);
 // function with return
 function add(a,b){
     return a+b;
+}
+//  try  catch
+try{
+    console.log("Hello World");
+}
+catch(error){
+    console.log(error);
+}
+finally{
+    console.log("Finally block");
+}
+// object
+let person = {
+    name: "Hammad",
+    age: 20,
+    role: "WEB-Developer"
+};
+console.log(person.name);
+console.log(person.age);
+console.log(person.role);
+// array
+let colors = ["red", "green", "blue"];
+console.log(colors[0]);
+console.log(colors[1]);
+console.log(colors[2]);
+// array with for loop
+let color = ["red", "green", "blue"];
+for(let i=0; i<color.length; i++){
+    console.log(color[i]);
 }
 
 
