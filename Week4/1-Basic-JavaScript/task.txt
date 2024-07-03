@@ -1,0 +1,21 @@
+🔔Week 04 (Day 1): Learn JavaScript Fundamentals
+
+⭕ Hey Fellows,
+
+Welcome to Week 04! Today, we’ll start learning JavaScript, one of the most essential languages for web development. We’ll focus on the fundamentals to build a strong foundation.
+
+🚩 Tasks for the Day:
+* Watch the following video to learn JavaScript fundamentals: (https://youtu.be/XIOLqoPHCJ4)
+
+📖 What you'll learn:
+* Basic syntax and structure of JavaScript
+* Variables, data types, and operators
+* Functions and control flow
+* Basic DOM manipulation
+
+📝 Submission:
+Practice writing JavaScript code by completing the exercises provided in the video. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Let’s dive into JavaScript and start building dynamic web applications!
+
+Happy coding!

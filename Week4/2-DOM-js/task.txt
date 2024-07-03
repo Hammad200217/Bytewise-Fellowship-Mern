@@ -1,0 +1,22 @@
+Week 04 (Day 2): Learn DOM Manipulation
+
+⭕ Hey Fellows,
+
+I hope you're all getting comfortable with JavaScript fundamentals! Today, we’ll be focusing on DOM (Document Object Model) manipulation, an essential skill for creating interactive web pages.
+
+🚩 Tasks for the Day:
+
+* Watch the following video to learn about DOM manipulation: (https://www.youtube.com/watch?v=5fb2aPlgoys)
+
+📖 What you'll learn:
+* What the DOM is and how it represents HTML documents
+* Selecting and manipulating DOM elements using JavaScript
+* Adding, modifying, and removing elements dynamically
+* Handling events to create interactive web experiences
+
+📝 Submission:
+Create a small project or modify an existing one by applying DOM manipulation techniques learned from the video. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Let’s make our web pages come to life with JavaScript and DOM manipulation!
+
+Happy coding!

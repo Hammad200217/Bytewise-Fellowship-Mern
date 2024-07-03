@@ -1,0 +1,22 @@
+🔔Week 04 (Day 3): Learn Asynchronous JavaScript
+
+⭕ Hey Fellows,
+
+I hope you're all doing great with your DOM manipulation tasks! Today, we’ll dive into asynchronous JavaScript, an important concept for handling tasks that take time, such as fetching data from an API.
+
+🚩 Tasks for the Day:
+
+* Watch the following video to learn about asynchronous JavaScript: (https://youtu.be/ZYb_ZU8LNxs)
+
+📖 What you'll learn:
+* Understanding asynchronous programming in JavaScript
+* Using callbacks, promises, and async/await
+* Handling asynchronous operations effectively
+* Practical examples of making API calls and handling responses
+
+📝 Submission:
+Create a small project or modify an existing one by incorporating asynchronous JavaScript techniques learned from the video. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Mastering asynchronous JavaScript will enable you to build more dynamic and responsive web applications. Let’s get started!
+
+Happy coding!
