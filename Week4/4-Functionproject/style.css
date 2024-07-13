@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(232, 238, 240, 0.812);
+}
+.container{
+     
+    margin-top: 30px;
+    margin-bottom: 20px;
+    /* border: 1px solid black; */
+    width: 95%;
+    height: 80vh;
+    display: flex;
+}
+.quotes{
+    border: 1px solid black;
+    width: 900px;
+    height: 450px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 50px;
+    color: gray;
+    background: white;
+    border-radius: 8px;
+    border: 5px solid gainsboro;
+
+}
+
