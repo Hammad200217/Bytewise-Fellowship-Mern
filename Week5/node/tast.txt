@@ -1,0 +1,23 @@
+🔔Week 05 (Day 4): Learn Node.js
+
+⭕ Hey Fellows,
+
+I hope you're all enjoying learning React fundamentals! Today, we’ll shift our focus to the backend and start learning Node.js, a powerful JavaScript runtime built on Chrome's V8 engine.
+
+🚩 Tasks for the Day:
+
+- Watch the following video to learn Node.js from scratch: (https://youtu.be/f2EqECiTBL8)
+
+📖 What you'll learn:
+- What Node.js is and its core features
+- Setting up a Node.js development environment
+- Basic modules and how to use them
+- Creating a simple server with Node.js
+- Handling requests and responses
+
+📝 Submission:
+Follow along with the tutorial and start building your own Node.js server. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Understanding Node.js is essential for building full-stack JavaScript applications
+
+Happy coding!
